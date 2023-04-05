@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository
+# My name is Samuel Kwak
+This is my first repository.
